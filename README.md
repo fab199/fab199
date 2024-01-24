@@ -1,10 +1,14 @@
 <!-- Header Section -->
-<h1>Hi👋, I'm Ifeanyi! 
-<p align="center">
+
+<h1 align="center">Hi👋, I'm Ifeanyi!</h1>
+
+
 
 <!-- Introduction Section -->
 <p align="center">
-<br/><a href=</a> <a href=> I'm a passionate DevOps Engineer with expertise in cloud computing, automation, and CI/CD.</a>
+<br/> <strong style="font-weight: bold;">I'm a passionate DevOps Engineer with expertise in cloud computing, automation, and CI/CD.</strong>
+
+
 </p>
 
 <!-- Skills Section -->
@@ -26,27 +30,40 @@
 <h2 align="center">👨‍💻 DevOps Projects:</h2>
 <p align="center">
   Here are some of the projects I've worked on using these technologies:
+ 
+- <b>Containerization of an E-commerce application which has multiple microservice</b>
+  - SERVICES: Nginx, client (Angular), Books api (Java), node api (nodejs)  (link to project)
+- <b>Containerise and deployment of App on Kubernetes Cluster</b>
+  - SERVICES:  Nginx, Tomcat, MySQL, Memcached, RabbitMQ (link to project)
+- <b>Gitops</b>
+  - Using git which is a version control system to do operational level changes.(link to project)
+- <b>CI/CD for docker Kubernetes using Jenkins</b>
+  - TOOLS: Kubernetes, Docker, Jenkins, Docker Hub, Helm, Git, Maven, SonarQube Server, Prometheus.(link to project)
+  
 </p>
 
 <p align="center">
-  - [Project 1](link_to_project1)<br>
-  - [Project 2](link_to_project2)
-</p>
-
-<p align="center">
-  Feel free to explore my repositories for more details on each project.
+         <a href=> Feel free to explore my repositories for more details on each project.
+    
 </p>
 
 <!-- Contact Section -->
-<h2 align="center">Connect with Me</h2>
+<h2 align="center"> 🤳 Connect with Me:</h2>
 <p align="center">
   Let's connect and discuss DevOps, automation, and technology!
-</p>
-<p align="center">
-  [LinkedIn](your_linkedin_profile) | [Twitter](your_twitter_profile)
-</p>
+
 
 <p align="center">
-  Feel free to reach out for collaborations, discussions, or questions. Happy coding!
+  <a href="https://twitter.com/khingfab1">
+    <img align="center" alt="khingfab1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ifeanyi-eze-b667162a4/">
+    <img align="center" alt="ifeanyi-eze-b667162a4 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
 </p>
-<
+
+
+
+<p align="center">
+  Feel free to reach out for collaborations, Job opportunities, discussions, or questions. Happy coding!
+</p>
