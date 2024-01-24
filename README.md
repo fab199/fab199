@@ -3,7 +3,7 @@
 <h1>Hi, I'm Ifeanyi <br/><a href=>DevOps Engineer</a> 
 
 <h2>👨‍💻 DevOps Projects:</h2>
-
+ ![AWS] (https://img.shields.io/badge/AWS-expert-ff900?logo=amazon-aws&logocolor=white)
 
 <!--
 Here are some ideas to get you started:
