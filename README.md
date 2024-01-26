@@ -36,7 +36,7 @@
 - <b>Containerise and deployment of App on Kubernetes Cluster</b>
   - SERVICES:  Nginx, Tomcat, MySQL, Memcached, RabbitMQ (link to project)
 - <b>Gitops</b>
-  - Using git which is a version control system to do operational level changes.(link to project)
+  - Using git which is a version control system to do operational level changes.    https://github.com/fab199/Gitops.git
 - <b>CI/CD for docker Kubernetes using Jenkins</b>
   - TOOLS: Kubernetes, Docker, Jenkins, Docker Hub, Helm, Git, Maven, SonarQube Server, Prometheus.(link to project)
   
