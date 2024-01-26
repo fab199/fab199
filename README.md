@@ -30,6 +30,9 @@
 <h2 align="center">👨‍💻 DevOps Projects:</h2>
 <p align="center">
   Here are some of the projects I've worked on using these technologies:
+ <p align="center">
+  
+   `Click on the link to explore my repositories for more details on each project`
  
 - <b>Containerization of an E-commerce application which has multiple microservice</b>
   - SERVICES: Nginx, client (Angular), Books api (Java), node api (nodejs)    https://github.com/fab199/Microservice.git
@@ -42,8 +45,7 @@
   
 </p>
 
-<p align="center">
-         Click on the links to explore my repositories for more details on each project.
+         
     
 </p>
 
