@@ -32,7 +32,7 @@
   Here are some of the projects I've worked on using these technologies:
  
 - <b>Containerization of an E-commerce application which has multiple microservice</b>
-  - SERVICES: Nginx, client (Angular), Books api (Java), node api (nodejs)  https://github.com/fab199/Microservice.git
+  - SERVICES: Nginx, client (Angular), Books api (Java), node api (nodejs)    https://github.com/fab199/Microservice.git
 - <b>Containerise and deployment of App on Kubernetes Cluster</b>
   - SERVICES:  Nginx, Tomcat, MySQL, Memcached, RabbitMQ (link to project)
 - <b>Gitops</b>
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-         <a href=> Feel free to explore my repositories for more details on each project.
+         Click on the links to explore my repositories for more details on each project.
     
 </p>
 
