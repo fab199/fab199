@@ -37,11 +37,11 @@
 - <b>Containerization of an E-commerce application which has multiple microservice</b>
   - SERVICES: Nginx, client (Angular), Books api (Java), node api (nodejs)    https://github.com/fab199/Microservice.git
 - <b>Containerise and deployment of App on Kubernetes Cluster</b>
-  - SERVICES:  Nginx, Tomcat, MySQL, Memcached, RabbitMQ (link to project)
+  - SERVICES:  Nginx, Tomcat, MySQL, Memcached, RabbitMQ (link to project #in progress)
 - <b>Gitops</b>
   - Using git which is a version control system to do operational level changes.    https://github.com/fab199/Gitops.git
 - <b>CI/CD for docker Kubernetes using Jenkins</b>
-  - TOOLS: Kubernetes, Docker, Jenkins, Docker Hub, Helm, Git, Maven, SonarQube Server, Prometheus.(link to project)
+  - TOOLS: Kubernetes, Docker, Jenkins, Docker Hub, Helm, Git, Maven, SonarQube Server, Prometheus.(link to project #in progress)
   
 </p>
 
