@@ -14,7 +14,8 @@
 <!-- Skills Section -->
 <h2 align="center">Skills</h2>
 <p align="center">
- 
+
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Ome-oSxDNx7mQxJFZJ-NJg.png" alt="azuredevops" width="60" height="60"/>
   <img src="https://www.logigroup.com/images/Logo_aws.gif" alt="aws" width="40" height="40"/>
   <img src="https://i.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="Git" width="40" height="40"/>
   <img src="https://i.imgur.com/JDKegBC.png" alt="Jenkins" width="60" height="60"/>
