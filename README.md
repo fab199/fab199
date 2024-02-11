@@ -42,7 +42,7 @@
 - <b>Gitops</b>
   - Using git which is a version control system to do operational level changes.    https://github.com/fab199/Gitops.git
 - <b>CI/CD for docker Kubernetes using Jenkins</b>
-  - TOOLS: Kubernetes, Docker, Jenkins, Docker Hub, Helm, Git, Maven, SonarQube Server, Prometheus.(link to project #in progress)
+  - TOOLS: Kubernetes, Docker, Jenkins, Docker Hub, Helm, Git, Maven, SonarQube Server, Prometheus.  https://github.com/fab199/CI-CD.git
   
 </p>
 
