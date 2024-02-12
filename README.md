@@ -36,9 +36,9 @@
    `Click on the link to explore my repositories for more details on each project`
  
 - <b>Containerization of an E-commerce application which has multiple microservice</b>
-  - SERVICES: Nginx, client (Angular), Books api (Java), node api (nodejs)    https://github.com/fab199/Microservice.git
-- <b>Containerise and deployment of App on Kubernetes Cluster</b>
-  - SERVICES:  Nginx, Tomcat, MySQL, Memcached, RabbitMQ (link to project #in progress)
+  - SERVICES: Nginx, client (Angular), Books api (Java), node api (nodejs)     https://github.com/fab199/Microservice.git
+- <b>Containerize and deployment of App on Kubernetes Cluster</b>
+  - SERVICES:  Nginx, Tomcat, MySQL, Memcached, RabbitMQ                        https://github.com/fab199/containerizedapp.git
 - <b>Gitops</b>
   - Using git which is a version control system to do operational level changes.    https://github.com/fab199/Gitops.git
 - <b>CI/CD for docker Kubernetes using Jenkins</b>
