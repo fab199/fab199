@@ -41,7 +41,7 @@
   - Using git which is a version control system to do operational level changes.    https://github.com/fab199/Gitops.git
 - <b>CI/CD for docker Kubernetes using Jenkins</b>
   - TOOLS: Kubernetes, Docker, Jenkins, Docker Hub, Helm, Git, Maven, SonarQube Server, Prometheus.  https://github.com/fab199/CI-CD.git
-- <b>Containerize and deployment of App on Kubernetes Cluster</b>
+- <b>Containerization and deployment of microservice App on Kubernetes Cluster</b>
   - SERVICES:  Nginx, Tomcat, MySQL, Memcached, RabbitMQ                        https://github.com/fab199/containerizedapp.git
   
 </p>
